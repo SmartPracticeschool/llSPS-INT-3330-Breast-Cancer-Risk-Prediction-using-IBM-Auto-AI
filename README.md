@@ -1,0 +1,1 @@
+<a href="https://dataplatform.ibm.com/docs/content/analyze-data/markd-jupyter.html" target="_blank" class="apStyleLink" data-reactroot="">Markdown cheatsheet</a>.
